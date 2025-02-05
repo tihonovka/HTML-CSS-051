@@ -8,7 +8,7 @@
 
 ## Feladat:
 
-1. Egy weblapot kell készítenie. A készítendő állomány neve legyen „index.html”.
+Egy weblapot kell készítenie. A készítendő állomány neve legyen „index.html”.
 
 A weblap egy kettes szintű címsort tartalmazzon.
 
