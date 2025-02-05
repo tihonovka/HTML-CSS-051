@@ -23,5 +23,4 @@
 7. A háttérkép 220 pixel széles legyen.
 8. A háttérkép csak a jobb felső sarokban legyen.
 
-Mentés könyvtára: torma
-
+**Mentés könyvtára: torma**
