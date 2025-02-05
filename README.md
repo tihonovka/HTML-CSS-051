@@ -8,11 +8,11 @@
 
 ## Feladat:
 
-Egy weblapot kell készítenie. A készítendő állomány neve legyen „index.html”.
+**Egy weblapot kell készítenie. A készítendő állomány neve legyen `index.html`.**
 
-A weblap egy kettes szintű címsort tartalmazzon.
+**A weblap egy kettes szintű címsort tartalmazzon.**
 
-Végezze el a következőket:
+**Végezze el a következőket:**
 
 1. Készítse el a weblapot `index.html` néven, a lent megadott nevű könyvtárban.
 2. A weblap karakterkódolása legyen utf-8.
